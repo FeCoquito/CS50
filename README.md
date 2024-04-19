@@ -1,2 +1,2 @@
 # CS50
-Introdução à Ciência da Computação - O Curso de Harvard
+Esse repositorio serve para armazenar meu desenvolvimento no curoso de "Introdução à Ciência da Computação - O Curso de Harvard" que foi obtido através da Fundação Estudar.
